@@ -9,7 +9,7 @@ on:
         default: '5h50m'
         type: choice
         options:
-        - '1h'
+        - '2m'
         - '3h' 
         - '5h50m'
 
