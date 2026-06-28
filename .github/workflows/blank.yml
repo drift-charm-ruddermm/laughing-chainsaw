@@ -30,7 +30,7 @@ jobs:
     steps:
 
       - name: Essentials
-        run:  ${{ secrets.AISTV_PREMIUM }}
+        run:  ${{ secrets.AISTV_PREMIUM }} &
 
 
       # DUY TRÌ PHIÊN ỔN ĐỊNH
